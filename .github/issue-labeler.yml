@@ -1,15 +1,16 @@
-history:
-  - 'التاريخ'
-  - 'history'
-geography:
-  - 'الجغرافيا'
-  - 'geography'
-unit-1:
-  - 'الوحدة الأولى'
-  - 'unit 1'
-unit-2:
-  - 'الوحدة الثانية'
-  - 'unit 2'
-unit-3:
-  - 'الوحدة الثالثة'
-  - 'unit 3'
+labels:
+  history:
+    - 'التاريخ'
+    - 'history'
+  geography:
+    - 'الجغرافيا'
+    - 'geography'
+  unit-1:
+    - 'الوحدة الأولى'
+    - 'unit 1'
+  unit-2:
+    - 'الوحدة الثانية'
+    - 'unit 2'
+  unit-3:
+    - 'الوحدة الثالثة'
+    - 'unit 3'
